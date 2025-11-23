@@ -25,6 +25,6 @@ The theme for this project is Sustanability and Profitability.
 
 Business suggestions based on EDA, modelling and statistical tests
 
-More infomation about the case study can be found here: [USS WiDSC Final Case.pdf](https://github.com/jentsang/wids-datathon/blob/main/USS%20WiDSC%20Final%20Case.pdf])
+More infomation about the case study can be found here: [USS WiDSC Final Case.pdf](https://github.com/jentsang/wids-datathon/blob/main/USS%20WiDSC%20Final%20Case.pdf)
 
 Our presentation slides can be found here: [Presentation slides](https://github.com/jentsang/wids-datathon/blob/main/presentation/bean_brew_case_slides.pptx)
